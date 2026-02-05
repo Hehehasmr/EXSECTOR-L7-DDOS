@@ -5,19 +5,19 @@ Install
 
 Linux / macOS
 
-git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd l7net && pip3 install aiohttp && python3 l7net.py
+git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd exsector && pip3 install aiohttp && python3 exsector.py
 
 Termux
 
-pkg install python git && git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd l7net && pip install aiohttp && python l7net.py
+pkg install python git && git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd exsector && pip install aiohttp && python exsector.py
 
 iSH Shell
 
-apk add python3 py3-pip git && git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd l7net && pip3 install aiohttp && python3 l7net.py
+apk add python3 py3-pip git && git clone https://github.com/Hehehasmr/EXSECTOR-L7-DDOS/ && cd  exsector && pip3 install aiohttp && python3  exsector.py
 
 Windows
 
-git clone hhttps://github.com/Hehehasmr/EXSECTOR-L7-DDOS/; cd l7net; pip install aiohttp; python l7net.py
+git clone hhttps://github.com/Hehehasmr/EXSECTOR-L7-DDOS/; cd  exsector; pip install aiohttp; python  exsector.py
 
 If you want vip
 Cashapp: $linglingjohn
